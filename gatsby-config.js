@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Learn Javascript with ES6`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Sonali Parab`,
+      summary: `I am Junior programmer at Finclusion Solutions Pvt ltd`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://sonaliparabreactblog.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `SonaliDilipPar2`,
     },
   },
   plugins: [
